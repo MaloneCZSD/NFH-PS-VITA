@@ -8,6 +8,7 @@ This port is based on the free **1.1.5** version of Neighbours From Hell.
 For the best experience, I recommend enabling overclocking to reduce stutters as much as possible.
 
 **If you’d like to support the project, leave a tip !**
+
 **Ko-Fi**: https://ko-fi.com/maloneczsd
 
 **Discord**: https://discord.com/invite/k2GvUUT4bm
