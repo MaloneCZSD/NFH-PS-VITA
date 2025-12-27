@@ -1,6 +1,6 @@
 ![Menu](https://github.com/user-attachments/assets/24bc77aa-aed6-4af3-936f-395445122dbc)
 # Neighbours From Hell for PS VITA
-This port is based on the free **1.1.5** version of Neighbours From Hell.
+This port is based on the free **1.5/1.1.5** (depending on the source) version of Neighbours From Hell.
 
 **NOTE**: All **Season 1** levels are unlocked. Season 2 levels are disabled as they are missing from the game files. Social buttons have been disabled because they caused crashes.
 
