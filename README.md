@@ -1,3 +1,4 @@
+![Menu](https://github.com/user-attachments/assets/24bc77aa-aed6-4af3-936f-395445122dbc)
 # Neighbours From Hell for PS VITA
 This port is based on the free **1.1.5** version of Neighbours From Hell.
 
@@ -13,6 +14,8 @@ For the best experience, I recommend enabling overclocking to reduce stutters as
 Known Issues:
 - Text can glitch and need to be refreshed by hovering buttons or just reloading the menu.
 - There is some stutters that lower the framerate with the camera.
+
+![In-Game](https://github.com/user-attachments/assets/32e71d78-516b-4b48-8582-e89ce40b561b)
 
 Have fun !
 Port by MaloneCZSD.
