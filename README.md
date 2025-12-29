@@ -29,6 +29,8 @@ Known Issues:
 - Text can glitch and need to be refreshed by hovering buttons or just reloading the menu.
 - There is some stutters that lower the framerate with the camera.
 - Last level isn't included.
+- Chinese and Russian not working (non-alphabetical).
+- Exit text say "REALLYEND" instead of his usual text.
 
 ![In-Game](https://github.com/user-attachments/assets/32e71d78-516b-4b48-8582-e89ce40b561b)
 
